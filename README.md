@@ -28,7 +28,7 @@ The **Internship Data Collector** uses the Scrapy framework to scrape internship
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/internship-data-collector.git
+   git clone https://github.com/A-Lassi/internship-data-collector.git
    cd internship-data-collector
 2. Install the dependencies:
    ```bash
